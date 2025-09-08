@@ -15,7 +15,5 @@
 
 > [elita.dev](https://elita.dev) - _coming soon.._
 
-<br><br><br>
-
 <!--![ELITA Claim](./ELITA.webp)-->
 ![ELITA Claim](./elita-frisbee.png)
