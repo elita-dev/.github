@@ -17,4 +17,4 @@
 
 <br><br><br> -->
 
-![ELITA Claim](./ELITA-Claim.jpg)
+![ELITA Claim](./ELITA.webp)
