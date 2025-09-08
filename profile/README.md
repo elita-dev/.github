@@ -11,11 +11,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-# Elita SaaS - Just Software. No Fuzz.
+# Elita SaaS - Just Software. No Fuzz.-->
 
 > [elita.dev](https://elita.dev) - _coming soon.._
 
-<br><br><br> -->
+<br><br><br>
 
 <!--![ELITA Claim](./ELITA.webp)-->
 ![ELITA Claim](./elita-frisbee.png)
