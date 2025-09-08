@@ -4,4 +4,4 @@
 
 <br><br><br>
 
-![ELITA Claim](./assets/ELITA-Claim.png)
+![ELITA Claim](./ELITA-Claim.png)
