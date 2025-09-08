@@ -17,4 +17,5 @@
 
 <br><br><br> -->
 
-![ELITA Claim](./ELITA.webp)
+<!--![ELITA Claim](./ELITA.webp)-->
+![ELITA Claim](./elita-frisbee.png)
